@@ -1,0 +1,129 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.car-input-container.data-v-c379e7de {
+  position: relative;
+  padding: 0 5px;
+  height: 44px;
+}
+.car-input-container .car-input-box.data-v-c379e7de {
+  display: inline-block;
+  width: 12.5%;
+  height: 44px;
+  vertical-align: middle;
+}
+.car-input-container .car-input-box .car-input-item.data-v-c379e7de {
+  position: relative;
+  border: 1px solid #E2E2E2;
+  height: 40px;
+  line-height: 40px;
+  width: 80%;
+  margin-left: 10%;
+  text-align: center;
+  font-size: 17px;
+}
+.car-input-container .car-input-box .car-input-item .sel-item-line.data-v-c379e7de {
+  position: absolute;
+  bottom: 3px;
+  left: 15%;
+  height: 2px;
+  background-color: #2979ff;
+  width: 70%;
+}
+.car-input-container .car-input-box .car-input-item .new-item-img.data-v-c379e7de {
+  position: absolute;
+  top: -6px;
+  left: 50%;
+  margin-left: -15px;
+  height: 13px;
+  width: 30px;
+  z-index: 9;
+}
+.car-input-container .car-input-box .sel-item.data-v-c379e7de {
+  color: #2979ff;
+}
+.car-input-container .car-input-box .last-item.data-v-c379e7de {
+  border: 1px solid #18bc37;
+}
+.car-number-container.data-v-c379e7de {
+  position: fixed;
+  z-index: 999;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 254px;
+  background-color: #E3E2E7;
+  box-shadow: 0 0 30rpx rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center;
+}
+.car-number-container .plate-close.data-v-c379e7de {
+  height: 40px;
+  line-height: 40px;
+  text-align: right;
+  background-color: #FFF;
+}
+.car-number-container .plate-close .plate-close-btn.data-v-c379e7de {
+  font-size: 13.5px;
+  color: #555;
+  margin-right: 15px;
+}
+.car-number-container .plate-popup-list.data-v-c379e7de {
+  margin: 0 auto;
+  overflow: hidden;
+  display: inline-block;
+  display: table;
+}
+.car-number-container .plate-popup-list.data-v-c379e7de:last-child {
+  margin-bottom: 2px;
+}
+.car-number-container .plate-popup-item.data-v-c379e7de {
+  float: left;
+  font-size: 16px;
+  width: 8vw;
+  margin: 0 1vw;
+  margin-top: 8px;
+  height: 40px;
+  line-height: 40px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  color: #4A4A4A;
+}
+.car-number-container .plate-popup-item image.data-v-c379e7de {
+  width: 16px;
+  height: 16px;
+  margin: 12px auto;
+}
+.car-number-container .plate-popup-item.data-v-c379e7de:active {
+  background-color: #EAEAEA;
+}
+.car-number-container .province-item.data-v-c379e7de {
+  width: 8.8vw;
+}
+.car-number-container .lock-item.data-v-c379e7de {
+  color: #AAA;
+}
+

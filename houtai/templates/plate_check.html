@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>自定义图片上传</title>
+    <style>
+        .picture{
+            width: 320px;
+            height:213px;
+        }
+        .img2{
+            width: 320px;
+            height:213px;
+        }
+        .contain{
+            display: inline-flex;
+            margin-top: 100px;
+        }
+        body{
+            text-align: center;
+
+        }
+        .container{
+            background-color: white;
+            display: inline-block;
+            box-shadow:0px 0px 10px 5px #E4E4E4;
+            padding-left: 0.5%;
+            padding-top: 4%;
+            padding-bottom:7%;
+            width: 99%;
+        }
+    </style>
+</head>
+<body style="background-color: #f1f1f1">
+<div class="container">
+<div class="contain">
+    <div class="picture"><img class="img2" src="/static/media/{{ pic_obj.pic }}" alt=""> </div>
+</div>
+<div>{{ result }}</div>
+<div>{{ plate_number}}</div>
+<br>
+<br>
+<form class="" method="post" enctype="multipart/form-data" action="/uploal_action/" >
+{#    取消csrf_token的防护#}
+    {% csrf_token %}
+
+    <input type="file" required id="pic"  name="pic" src="/static/picture/shangchuan">
+    <select required id ="parking_level" name="parking_level">
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+    </select>
+
+    <select required id ="parking_number"  name="parking_number">
+        <option>1</option>
+         <option>2</option>
+    </select>
+    <input class="input" type="submit" value="进车位"><br/>
+</form>
+    <br/><br/>
+    <form method="post" action="/out_parking/">
+        {% csrf_token %}
+            <select required id ="parking_level" name="parking_level">
+        <option>A</option>
+        <option>B</option>
+        <option>C</option>
+    </select>
+
+    <select required id ="parking_number"  name="parking_number">
+        <option>1</option>
+         <option>2</option>
+    </select>
+        <input class="input" type="submit" value="出车位"><br/>
+    </form>
+
+    </div>
+</body>
+</html>
+
+{#{% if messages %}#}
+{#<script>#}
+{#    {% for msg in messages %}#}
+{#        alert('{{ msg.message }}');#}
+{#    {% endfor %}#}
+{#</script>#}
+{#{% endif %}#}
+{##}
+

@@ -1,0 +1,158 @@
+{
+	"pages": [ 
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "停车场小程序",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor":"#fec465",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				// "titleImage": "static/images/parking_place.png",
+				"navigationBarTitleText": "停车场小程序",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor":"#febb4e",
+				"navigationBarTextStyle":"white"
+				
+				
+				
+			}
+		},
+
+		
+	    {
+            "path" : "pages/parking-map/parking-map",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "停车场小程序",
+                "enablePullDownRefresh": false,
+                "navigationBarBackgroundColor":"#febb4e",
+                "navigationBarTextStyle":"white"
+            }
+            
+        },
+		{
+		    "path" : "pages/usercenter/usercenter",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "停车场小程序",
+		        "enablePullDownRefresh": false,
+		        "navigationBarBackgroundColor":"#fec465",
+		        "navigationBarTextStyle":"white"
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/parking_picture/parking_picture",
+            "style" :                                                                                    
+            {   "navigationBarTitleText": "车辆实时照片",
+		        "enablePullDownRefresh": false,
+		        "navigationBarBackgroundColor":"#fec465",
+		        "navigationBarTextStyle":"white"
+            }
+            
+        }
+        ,{
+            "path" : "pages/reservation/reservation",
+            "style" :                                                                                    
+            {
+		        "navigationBarTitleText": "停车场小程序",
+		        "enablePullDownRefresh": false,
+		        "navigationBarBackgroundColor":"#febb4e",
+		        "navigationBarTextStyle":"white"
+            }
+            
+        },
+		
+		{
+		    "path" : "pages/wait_order/wait_order",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "停车场小程序",
+		        "enablePullDownRefresh": false,
+		        "navigationBarBackgroundColor":"#febb4e",
+		        "navigationBarTextStyle":"white"
+		    }
+		    
+		},
+		{
+			"path" : "pages/all_orders/all_orders",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "停车场小程序",
+			    "enablePullDownRefresh": false,
+			    "navigationBarBackgroundColor":"#febb4e",
+			    "navigationBarTextStyle":"white"
+			}
+		}
+        
+        ,{
+            "path" : "pages/paid/paid",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        // ,{
+        //     "path" : "pages/test/test",
+        //     "style" :                                                                                    
+        //     {
+        //         "navigationBarTitleText": "",
+        //         "enablePullDownRefresh": false
+        //     }
+            
+        // }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+		// "titleImage": "static/images/tingchechang(2).png"
+		
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "#333",
+		"selectedColor":"#fea002",
+		"list": [
+			{
+				"text":"查寻车位",
+				"pagePath": "pages/index/index",
+				"iconPath": "static/images/search.png",
+				"selectedIconPath": "static/images/search(2).png"
+			},
+			{
+				"text":"停车预约",
+				"pagePath": "pages/reservation/reservation",
+				"iconPath": "static/images/parking(0).png",
+				"selectedIconPath": "static/images/parking(2).png"
+			},  
+			{
+				"text": "用户中心",
+				"pagePath": "pages/usercenter/usercenter",
+				 "iconPath": "static/images/user.png",
+				 "selectedIconPath": "static/images/user(2).png"
+				 
+			}
+		]
+		
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "pages/login/login", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

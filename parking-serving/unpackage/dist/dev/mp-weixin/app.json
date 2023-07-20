@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/parking-map/parking-map",
+    "pages/usercenter/usercenter",
+    "pages/parking_picture/parking_picture",
+    "pages/reservation/reservation",
+    "pages/wait_order/wait_order",
+    "pages/all_orders/all_orders",
+    "pages/paid/paid"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333",
+    "selectedColor": "#fea002",
+    "list": [
+      {
+        "text": "查寻车位",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/search.png",
+        "selectedIconPath": "static/images/search(2).png"
+      },
+      {
+        "text": "停车预约",
+        "pagePath": "pages/reservation/reservation",
+        "iconPath": "static/images/parking(0).png",
+        "selectedIconPath": "static/images/parking(2).png"
+      },
+      {
+        "text": "用户中心",
+        "pagePath": "pages/usercenter/usercenter",
+        "iconPath": "static/images/user.png",
+        "selectedIconPath": "static/images/user(2).png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation"
+  ],
+  "usingComponents": {}
+}

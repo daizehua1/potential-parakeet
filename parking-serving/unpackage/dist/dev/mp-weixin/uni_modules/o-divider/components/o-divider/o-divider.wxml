@@ -1,0 +1,1 @@
+<view class="{{['o-divider',Align,Dashed,lineClass,textClass]}}" style="{{(lineStyle+Mar)}}"><block wx:if="{{$slots.default}}"><view class="{{['o-text']}}" style="{{(textStyle)}}"><slot></slot></view></block></view>

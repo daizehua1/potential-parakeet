@@ -1,0 +1,45 @@
+
+.content {
+    background-color: #F1F1F1;
+    overflow: hidden;
+    min-height: 100vh;
+    color: #646464;
+    font-size:40rpx ;
+}
+.top>input{
+    height: 88rpx;
+    width: 524rpx;
+    margin: 40rpx auto 0;
+    padding:0 40rpx;
+    border: solid 2rpx #BEBEBE;
+}
+.option{
+    max-height: 300rpx;
+    width: 100%;
+
+    line-height: 60rpx;
+    position: fixed;
+    top: 128rpx;
+    z-index: 99999;
+}
+.column_item{
+    padding:0 40rpx;
+    height: 60rpx;
+    width: 524rpx;
+    overflow: hidden;
+    margin:0rpx auto;
+    background-color: #fff;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.column_item:active{
+    background-color: #8F8F94;
+}
+.page-section-gap{
+  box-sizing: border-box;
+  /* padding: 0 30rpx; */
+  margin: 30rpx auto;
+  width: 600rpx;
+}
+
+

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "车辆实时照片",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#fec465",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-data-select": "/uni_modules/uni-data-select/components/uni-data-select/uni-data-select",
+    "uni-fab": "/uni_modules/uni-fab/components/uni-fab/uni-fab",
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup"
+  }
+}

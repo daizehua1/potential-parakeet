@@ -1,0 +1,39 @@
+
+.line{
+		background-color: #f1f1f1;
+		color: white;
+		text-align: center;
+		padding-top: 1%;
+		/* font-size: 50rpx; */
+}
+.content{
+	background-color: #d5d5d5;
+}
+.orders{
+	background-color: white;
+	margin-top: 2%;
+	padding-top: 3%;
+	padding-bottom: 5%;
+	padding-left: 5%;
+	font-size: 15%;
+}
+.time{
+}
+.parking_time{
+	color: #524444;
+	padding-top: 8%;
+	display: inline-flexbox;
+	display: flex;flex-flow: row nowrap;
+	justify-content:space-between;
+	padding-right: 5%;
+}
+.status{
+	display: flex;flex-flow: row nowrap;
+	justify-content:space-between;
+	margin-right: 5%;
+	/* font-size: 50%; */
+}
+.money{
+	margin-left: 5%;
+}
+

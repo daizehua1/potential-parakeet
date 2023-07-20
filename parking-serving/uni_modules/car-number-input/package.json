@@ -1,0 +1,26 @@
+{
+    "id": "car-number-input",
+    "displayName": "车牌选择组件+键盘（包含新能源车牌）",
+    "version": "1.0.4",
+    "description": "车牌输入组件+键盘，包含新能源车牌",
+    "keywords": [
+        "车牌",
+        "车牌选择器",
+        "键盘",
+        "车牌键盘",
+        "车牌选择"
+    ],
+    "dcloudext": {
+        "contact": {
+            "qq": ""
+        },
+        "declaration": {
+            "ads": "无",
+            "data": "无",
+            "permissions": "无"
+        },
+        "npmurl": "",
+        "type": "component-vue"
+    },
+    "repository": ""
+}

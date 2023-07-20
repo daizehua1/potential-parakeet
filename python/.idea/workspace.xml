@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47324dd1-7614-43d5-836c-66557f7cb9ae" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Hq0q2Kuqvs4jIT63r7sWbEA8VC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python_object\car_parking\python\CarPlateIdentity-master\code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.carPlateIdentity">
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\python_object\car_parking\python\CarPlateIdentity-master\code\api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="apitest" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CarPlateIdentity-master/code/apitest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="apitest2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CarPlateIdentity-master/code/apitest2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="carPlateIdentity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CarPlateIdentity-master/code/carPlateIdentity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="charNeuralNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CarPlateIdentity-master/code/charNeuralNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plateNeuralNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CarPlateIdentity-master/code/plateNeuralNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.carPlateIdentity" />
+        <item itemvalue="Python.charNeuralNet" />
+        <item itemvalue="Python.api" />
+        <item itemvalue="Python.apitest2" />
+        <item itemvalue="Python.plateNeuralNet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47324dd1-7614-43d5-836c-66557f7cb9ae" name="默认更改列表" comment="" />
+      <created>1668997493894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668997493894</updated>
+      <workItem from="1668997495042" duration="49000" />
+      <workItem from="1668998013187" duration="14308000" />
+      <workItem from="1669043289941" duration="2472000" />
+      <workItem from="1669083500641" duration="9700000" />
+      <workItem from="1669181314218" duration="48000" />
+      <workItem from="1669181416297" duration="47000" />
+      <workItem from="1669467323448" duration="847000" />
+      <workItem from="1669623802644" duration="66000" />
+      <workItem from="1669623870044" duration="90000" />
+      <workItem from="1669628106634" duration="427000" />
+      <workItem from="1669709601658" duration="7103000" />
+      <workItem from="1669728138187" duration="2856000" />
+      <workItem from="1669786353433" duration="9370000" />
+      <workItem from="1669968235755" duration="2135000" />
+      <workItem from="1670222185800" duration="245000" />
+      <workItem from="1670226601201" duration="1282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="271" key="FileChooserDialogImpl" timestamp="1669806971940">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state x="1060" y="271" key="FileChooserDialogImpl/0.0.2560.1032@0.0.2560.1032" timestamp="1669181446118" />
+    <state x="1060" y="271" key="FileChooserDialogImpl/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1669806971940" />
+    <state width="1457" height="252" key="GridCell.Tab.0.bottom" timestamp="1670237699586">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state width="1457" height="203" key="GridCell.Tab.0.bottom/0.0.2560.1032@0.0.2560.1032" timestamp="1669468176658" />
+    <state width="1457" height="252" key="GridCell.Tab.0.bottom/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1670237699586" />
+    <state width="1457" height="252" key="GridCell.Tab.0.center" timestamp="1670237699585">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state width="1457" height="203" key="GridCell.Tab.0.center/0.0.2560.1032@0.0.2560.1032" timestamp="1669468176658" />
+    <state width="1457" height="252" key="GridCell.Tab.0.center/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1670237699585" />
+    <state width="1457" height="252" key="GridCell.Tab.0.left" timestamp="1670237699585">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state width="1457" height="203" key="GridCell.Tab.0.left/0.0.2560.1032@0.0.2560.1032" timestamp="1669468176658" />
+    <state width="1457" height="252" key="GridCell.Tab.0.left/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1670237699585" />
+    <state width="1457" height="252" key="GridCell.Tab.0.right" timestamp="1670237699585">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state width="1457" height="203" key="GridCell.Tab.0.right/0.0.2560.1032@0.0.2560.1032" timestamp="1669468176658" />
+    <state width="1457" height="252" key="GridCell.Tab.0.right/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1670237699585" />
+    <state width="1457" height="400" key="GridCell.Tab.1.bottom" timestamp="1669720567833">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state width="1457" height="400" key="GridCell.Tab.1.bottom/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1669720567833" />
+    <state width="1457" height="400" key="GridCell.Tab.1.center" timestamp="1669720567833">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state width="1457" height="400" key="GridCell.Tab.1.center/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1669720567833" />
+    <state width="1457" height="400" key="GridCell.Tab.1.left" timestamp="1669720567833">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state width="1457" height="400" key="GridCell.Tab.1.left/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1669720567833" />
+    <state width="1457" height="400" key="GridCell.Tab.1.right" timestamp="1669720567833">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state width="1457" height="400" key="GridCell.Tab.1.right/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1669720567833" />
+    <state x="781" y="160" key="SettingsEditor" timestamp="1669711478155">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state x="781" y="160" key="SettingsEditor/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1669711478155" />
+    <state x="943" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1669968590628">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state x="943" y="223" width="672" height="678" key="search.everywhere.popup/2560.-323.1707.1035/0.0.2560.1032@0.0.2560.1032" timestamp="1669968590628" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CarPlateIdentity-master/code/carPlateIdentity.py</url>
+          <line>391</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CarPlateIdentity-master/code/apitest2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CarPlateIdentity-master/code/carPlateIdentity.py</url>
+          <line>534</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="pred_img" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$carPlateIdentity.coverage" NAME="carPlateIdentity Coverage Results" MODIFIED="1670227118082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+    <SUITE FILE_PATH="coverage/python$sanic_app.coverage" NAME="api Coverage Results" MODIFIED="1669716188095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+    <SUITE FILE_PATH="coverage/python$apitest.coverage" NAME="apitest Coverage Results" MODIFIED="1669716153682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+    <SUITE FILE_PATH="coverage/python$apitest2.coverage" NAME="apitest2 Coverage Results" MODIFIED="1669716144041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+    <SUITE FILE_PATH="coverage/python$plateNeuralNet.coverage" NAME="plateNeuralNet Coverage Results" MODIFIED="1669114718558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+    <SUITE FILE_PATH="coverage/python$charNeuralNet.coverage" NAME="charNeuralNet Coverage Results" MODIFIED="1670226635888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+    <SUITE FILE_PATH="coverage/python$api.coverage" NAME="api Coverage Results" MODIFIED="1670222213670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CarPlateIdentity-master/code" />
+  </component>
+</project>

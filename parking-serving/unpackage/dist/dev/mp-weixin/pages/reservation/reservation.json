@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "停车场小程序",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#febb4e",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-notice-bar": "/uni_modules/uni-notice-bar/components/uni-notice-bar/uni-notice-bar",
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "uni-forms": "/uni_modules/uni-forms/components/uni-forms/uni-forms",
+    "uni-forms-item": "/uni_modules/uni-forms/components/uni-forms-item/uni-forms-item",
+    "uni-data-select": "/uni_modules/uni-data-select/components/uni-data-select/uni-data-select",
+    "car-number-input": "/uni_modules/car-number-input/components/car-number-input/car-number-input",
+    "uni-fab": "/uni_modules/uni-fab/components/uni-fab/uni-fab"
+  }
+}

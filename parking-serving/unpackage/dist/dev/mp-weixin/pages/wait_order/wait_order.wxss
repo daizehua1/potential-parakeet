@@ -1,0 +1,61 @@
+
+.without{
+	/* background-color: white; */
+	width: 5rpx;
+	height: 5rpx;
+	margin-bottom:80rpx;
+	text-align: center;
+}
+.not{
+	width: 400rpx;
+	height: 400rpx;
+	padding-top: 400rpx;
+	padding-left:160rpx;
+}
+.line{
+		background-color: #f1f1f1;
+		color: white;
+		text-align: center;
+		padding-top: 1%;
+		/* font-size: 50rpx; */
+}
+.content{
+	background-color: #d5d5d5;
+}
+.orders{
+	background-color: white;
+	margin-top: 2%;
+	padding-top: 3%;
+	padding-bottom: 5%;
+	padding-left: 5%;
+	font-size: 15%;
+	box-shadow:0px 0px 10px 5px #E4E4E4;
+}
+.time{
+}
+.parking_time{
+	color: black;
+	padding-top: 8%;
+	display: inline-flexbox;
+	display: flex;flex-flow: row nowrap;
+	justify-content:space-between;
+	padding-right: 5%;
+}
+.status{
+	display: flex;flex-flow: row nowrap;
+	justify-content:space-between;
+	margin-right: 5%;
+	/* font-size: 50%; */
+}
+.money{
+	margin-left: 5%;
+}
+.cancel_reservation{
+	margin-left: 200rpx;
+	/* text-align: center; */
+	margin-right: 250rpx;
+	background-color: #fec465;
+	color: white;
+	margin-top:10%
+}
+

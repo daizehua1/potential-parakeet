@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "停车场小程序",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#fec465",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {}
+}
